@@ -1,5 +1,4 @@
-
- {
+{
   "compilerOptions": {
     "target": "ES2022",
     "experimentalDecorators": true,
@@ -17,7 +16,7 @@
     "moduleResolution": "bundler",
     "isolatedModules": true,
     "moduleDetection": "force",
-    "allowJs": true,
+      "allowJs": true,
     "jsx": "react-jsx",
     "paths": {
       "@/*": ["./*"]
